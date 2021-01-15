@@ -25,8 +25,8 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 <b>Leg room service</b>: Satisfaction level of Leg room service<br>
 <b>Baggage handling</b>: Satisfaction level of baggage handling<br>
 <b>Check-in service</b>: Satisfaction level of Check-in service<br>
-<b>Inflight service: Satisfaction level of inflight service
-<b>Cleanliness: Satisfaction level of Cleanliness
-<b>Departure Delay in Minutes: Minutes delayed when departure
-<b>Arrival Delay in Minutes: Minutes delayed when Arrival
+<b>Inflight service: Satisfaction level of inflight service<br>
+<b>Cleanliness: Satisfaction level of Cleanliness<br>
+<b>Departure Delay in Minutes: Minutes delayed when departure<br>
+<b>Arrival Delay in Minutes: Minutes delayed when Arrival<br>
 <b>Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
